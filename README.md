@@ -1,5 +1,5 @@
 # standard_conditions
-Standard conditions for provisions of bioinformatic services and / or training.
+Standard conditions for provision of bioinformatic services and / or training.
 
 Provider:
 Theodore Richard Allnutt
